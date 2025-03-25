@@ -501,6 +501,10 @@ public class NPC
     {
 
     }
+    public void Éú×Ó³ÌÐò2()
+    {
+
+    }
 }
 public class NPCManager
 {
